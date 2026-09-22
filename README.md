@@ -69,7 +69,3 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones web y mobile, trabaj
 * **GitHub:** [LuisJimenez66](https://github.com/LuisJimenez66)
 * **LinkedIn:** [linkedin.com/in/luis-h-jimenez-del](https://www.linkedin.com/in/luis-h-jimenez-del)
 
-
-este es el codigo de otro git hub que tengo, en este vuelvete loco haz fiesta diviertete locura maxima
-dame un codigo cno esas caracterisitcas para poner de readme en el perfil de ese, recuerda locura maxima
-CODIGO
