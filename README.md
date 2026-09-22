@@ -1,70 +1,26 @@
-<h1 align="center">Hola, soy Luis Héctor Jiménez Delgado</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=LUIS%20HÉCTOR%20JIMÉNEZ&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
+</p>
 
 <p align="center">
-  <b>Desarrollador de Software</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=F72585&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Desarrollador+Full+Stack+%2B+Mobile;Creador+de+Experiencias+Digitales;React+%7C+React+Native+%7C+TypeScript;Construcción+de+código+a+alta+velocidad" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuisJimenez66&label=Vistas%20del%20perfil&color=f72585&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### Perfil Profesional
+## ARCHIVO DE SISTEMA
 
-* **Desarrollo Frontend:** Creación y desarrollo de aplicaciones web utilizando React, TypeScript, JavaScript y Tailwind CSS.
-* **Desarrollo Mobile:** Creación de aplicaciones multiplataforma utilizando React Native.
-* **UI/UX:** Diseño y maquetación de interfaces web y mobile utilizando Figma.
-* **Backend:** Desarrollo de servicios y APIs utilizando Node.js, Express y Python.
-* **Bases de Datos:** Diseño, modelado y gestión de bases de datos relacionales utilizando MySQL, MariaDB y PostgreSQL.
-* **Arquitectura de Software:** Aplicación de patrones de diseño, diagramación UML y modelado de casos de uso.
-* **Control de Versiones:** Gestión de proyectos utilizando Git y GitHub.
-
----
-
-### Tecnologías
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwind-css&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MariaDB-111111?style=flat-square&logo=mariadb&logoColor=003545" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F24E1E" />
-</p>
-
----
-
-### Actualmente
-
-Actualmente estoy enfocado en el desarrollo de aplicaciones web y mobile, trabajando principalmente con React, TypeScript, bases de datos relacionales y desarrollo de APIs.
-
----
-
-### Proyectos
-
-* **ActivityLog:** Sistema web para la gestión de proyectos y registro de horas trabajadas.
-* **Proyectos académicos:** Desarrollo de aplicaciones utilizando Python, Java, JavaScript, React, React Native y bases de datos relacionales.
-
----
-
-### Métricas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LuisJimenez66&show_icons=true&theme=dark&hide_border=true&card_width=450" alt="Estadísticas de GitHub" />
-</p>
-<br />
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisJimenez66&layout=compact&theme=dark&hide_border=true&card_width=450" alt="Lenguajes más usados" />
-</p>
----
-
-### Contacto
-
-* **GitHub:** [LuisJimenez66](https://github.com/LuisJimenez66)
-* **LinkedIn:** [linkedin.com/in/luis-h-jimenez-del](https://www.linkedin.com/in/luis-h-jimenez-del)
+```javascript
+const dev = {
+    nombre: "Luis Héctor Jiménez Delgado",
+    rol: "Software Developer",
+    capacidades: ["Frontend", "Mobile", "APIs", "Bases de Datos"],
+    estadoActual: "Procesando código de alta frecuencia",
+    meta: "Saturar repositorios"
+};
