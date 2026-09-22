@@ -1,48 +1,36 @@
-<h1 align="center">
-  <code>[ SYSTEM_OVERRIDE // LUIS HÉCTOR JIMÉNEZ ]</code>
-</h1>
-
-<p align="center">
-  <b>SOFTWARE ENGINEER // FULL-STACK ARCHITECT // MOBILE DEVELOPER</b>
-</p>
-
-              ┌─────────────────────────────────────────┐
-              │  STATUS: EXECUTING HIGH-FREQUENCY CODE  │
-              │  STACK:  REACT • TYPESCRIPT • NODE • SQL│
-              └─────────────────────────────────────────┘
+# [ LUIS HÉCTOR JIMÉNEZ ]
+> **FULL-STACK ARCHITECT // MOBILE DEVELOPER**
 
 ---
 
-### CORE_MEMORIES // CONFIG
+### // CORE_STACK
 
-```typescript
-type Developer = {
-  name: "Luis Héctor Jiménez Delgado";
-  mode: "COMPATIBILITY_UNLIMITED";
-  architecture: ["Frontend", "Mobile", "APIs", "Relational Databases"];
-  runtime: {
-    stack: ["React", "React Native", "TypeScript", "Node.js", "Express", "Python", "Java"];
-    persistence: ["MySQL", "MariaDB", "PostgreSQL"];
-  };
-};
-TECH_STACK // DIRECTORY[FRONTEND & MOBILE]
-├── React
-├── React Native
-├── TypeScript
-├── JavaScript
-└── Tailwind CSS
+- **Frontend & Mobile:** React, React Native, TypeScript, JavaScript, Tailwind CSS
+- **Backend & APIs:** Node.js, Express, Python, Java
+- **Persistence Layer:** MySQL, MariaDB, PostgreSQL
+- **Tooling & Infra:** Git, GitHub, Figma
 
-[BACKEND & DATABASE]
-├── Node.js
-├── Express
-├── Python
-├── Java
-├── MySQL
-├── MariaDB
-└── PostgreSQL
+---
 
-[TOOLING & INFRA]
-├── Git
-├── GitHub
-└── Figma
-SYSTEM_DEPLOYMENTSProjectTargetTechStatusActivityLogTime & Project Tracking SystemReact, Node.js, SQLPRODUCTIONAcademic LabsAlgorithms, Models & System ArchitecturePython, Java, JSACTIVEINFRASTRUCTURE_METRICSCONTACT_PROTOCOLGitHub: LuisJimenez66LinkedIn: luis-h-jimenez-del
+### // SYSTEM_DEPLOYMENTS
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **ActivityLog** | Time & Project Tracking System | React, Node.js, SQL | `PRODUCTION` |
+| **Academic Labs** | Algorithms, Systems & Architecture | Python, Java, JS | `ACTIVE` |
+
+---
+
+### // METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LuisJimenez66&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisJimenez66&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+### // TERMINAL_END
+
+- **GitHub:** [LuisJimenez66](https://github.com/LuisJimenez66)
+- **LinkedIn:** [luis-h-jimenez-del](https://www.linkedin.com/in/luis-h-jimenez-del)
